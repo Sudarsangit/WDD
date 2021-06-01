@@ -1,6 +1,6 @@
-this is javafile
+This is javafile
+Modified at local repository
+and added in remote repsoitory
 
-[A[A[Bexit
 
-[D[D[D[D[D[D[D[A[A[3~[3~[[3~[
 
